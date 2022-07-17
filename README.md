@@ -8,6 +8,7 @@ The change is only when clicking(tap) on Mobile device, the Gesture Handling is 
 
 In the original version, when I click(tap) on the map, the text message will flash across the map.
 
+![when tapping on Mobile](https://github.com/zacwang89/Leaflet.GestureHandling/blob/master/asset/demo.gif)
 ## License
 
 MIT
